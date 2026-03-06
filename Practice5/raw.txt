@@ -1,0 +1,8 @@
+Item: Apple
+Price: 120
+
+Item: Milk
+Price: 300
+
+Item: Bread
+Price: 80
