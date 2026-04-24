@@ -9,7 +9,7 @@ def main():
     WIDTH, HEIGHT = 800, 800
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Mickey Mouse Clock")
-  
+    
     clock_app = MickeyClock(WIDTH, HEIGHT)
     timer = pygame.time.Clock()
 
